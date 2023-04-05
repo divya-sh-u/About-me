@@ -11,6 +11,6 @@ I am Divyanshu, a computer science student and an web-3 enthusiast. I have been 
 Skills
 ------
 
-*   🔥 Proficient in TypeScript, Python, Rust and Go.
+*   🔥 Good in TypeScript, Python, Rust and Go.
 *   💻 Experienced in React, Tailwind CSS, Redwood JS, Solidity and more.
 
